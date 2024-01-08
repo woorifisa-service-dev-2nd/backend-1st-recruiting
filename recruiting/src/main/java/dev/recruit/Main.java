@@ -24,7 +24,7 @@ public class Main {
 		ArrayList<String> list = new ArrayList<>();
 		
 		InputStream inputStream = Main.class.getResourceAsStream(RESOURCES + args[0] + ".txt");
-		try (BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream))) {
+		try (BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream, "UTF-8"))) {
 			String line;
 			while ((line = reader.readLine()) != null) {
 				list.add(line);
@@ -44,7 +44,7 @@ public class Main {
 //			list.add(str);
 //		}
 //		reader.close();
-//		
+		
 
 		// 2. 읽어들인 데이터 파싱 처리
 		ArrayList<ApplicantInfo> applicantInfos = new Parser().parseLinesFrom(list);
