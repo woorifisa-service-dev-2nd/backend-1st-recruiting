@@ -11,7 +11,7 @@
 황현정, F, 5, [PYTHON], X,  asdb10@gmailcom ,6500
 유지연, F, 25, [JAVA, C++, C#], X,  23salkdjf@.com ,7500
 이수빈, F, 53, [C, C++, C#], O,  23hsdfns@gmail.com ,3000
-이혜민, F, 35, [JAVA, C#], O,  sdfmt97@gmail.com ,4300
+민혜이, F, 35, [JAVA, C#], O,  sdfmt97@gmail.com ,4300
 박소연, F, 45, [JAVA, PYTHON, JAVASCRIPT], X,  fdfeeee23@gmail.com ,2000
 기수지, F, 55, [C, PYTHON, JAVASCRIPT], O,  hlkjin000@gmailcom ,9900
 도다희, F, 65, [JAVA, C, PYTHON, C++], O,  asdi299490@gmail.com ,2600

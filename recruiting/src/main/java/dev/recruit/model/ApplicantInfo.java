@@ -3,7 +3,7 @@ package dev.recruit.model;
 public class ApplicantInfo {
 
 	private String name;
-	private String sex; // M, F
+	private String gender; // M, F
 	private int age;
 	private String lang;
 	private String certificate; // O, X
@@ -14,10 +14,10 @@ public class ApplicantInfo {
 	
 	public ApplicantInfo() {}
 	
-	public ApplicantInfo(String name, String sex, int age, String lang, String certificate, String email, int salary) {
+	public ApplicantInfo(String name, String gender, int age, String lang, String certificate, String email, int salary) {
 		super();
 		this.name = name;
-		this.sex = sex;
+		this.gender = gender;
 		this.age = ageDivision(age);
 		this.lang = lang;
 		this.certificate = certificate;
@@ -29,8 +29,8 @@ public class ApplicantInfo {
 	public String getName() {
 		return name;
 	}
-	public String getSex() {
-		return sex;
+	public String getGender() {
+		return gender;
 	}
 	public int getAge() {
 		return age;
@@ -57,7 +57,7 @@ public class ApplicantInfo {
 	
 	@Override
 	public String toString() {
-		return "지원자 " + name + ", 성별 : " + sex + ", 나이 : " + age + "대, email : " + email + ", 기술 스택 : " + lang
+		return "지원자 " + name + ", 성별 : " + gender + ", 나이 : " + age + "대, email : " + email + ", 기술 스택 : " + lang
 				+ ", 자격증 여부 : " + certificate + ", 희망 연봉 : " + salary + "\n";
 	}
 	
