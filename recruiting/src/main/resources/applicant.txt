@@ -1,0 +1,20 @@
+김철수, M, 57, [JAVA, C, PYTHON, JAVASCRIPT, C++, C#], O,  chulsu5710@gmail.com ,30000
+김남식, M, 17, [JAVA, JAVASCRIPT, C#], X,  namnam00@gmail ,3000
+황치섭, M, 27, [JAVA, C, PYTHON], O,  akldslk3gmail.com ,5000
+박지성, M, 37, [JAVA, JAVASCRIPT], X,  1234577d@gmail.com ,6000
+이동욱, M, 47, [PYTHON, C#], O,  11111135k@navercom ,8400
+강동원, M, 67, [C, JAVASCRIPT, C++], X,  emkdkkd12@gmail.com ,10000
+송지현, M, 40, [JAVASCRIPT], O,  aq2ddhas@gmail.com ,6000
+남궁민수, M, 117, [C++, C#], O,  nffbvvrr3@gmail.com ,20000
+허경영, M, 51, [C, C++, C#], X,  4rjfsaa@gmail.com ,6100
+민석렬, M, 31, [JAVASCRIPT, C++], O,  nnkslli3@gmail.com ,8300
+황현정, F, 5, [PYTHON], X,  asdb10@gmailcom ,6500
+유지연, F, 25, [JAVA, C++, C#], X,  23salkdjf@.com ,7500
+이수빈, F, 53, [C, C++, C#], O,  23hsdfns@gmail.com ,3000
+민혜이, F, 35, [JAVA, C#], O,  sdfmt97@gmail.com ,4300
+박소연, F, 45, [JAVA, PYTHON, JAVASCRIPT], X,  fdfeeee23@gmail.com ,2000
+기수지, F, 55, [C, PYTHON, JAVASCRIPT], O,  hlkjin000@gmailcom ,9900
+도다희, F, 65, [JAVA, C, PYTHON, C++], O,  asdi299490@gmail.com ,2600
+진정민, F, 56, [C, PYTHON, JAVASCRIPT, C++, C#], O,  20983649@gmail ,3000
+현지선, F, 28, [JAVA, C, PYTHON, JAVASCRIPT, C++, C#], X,  2309dkljgd@gmail.com ,8500
+이미나, F, 100, [JAVA, PYTHON, JAVASCRIPT, C++, C#], O,  389hkjdhd@gmaicom ,7200
