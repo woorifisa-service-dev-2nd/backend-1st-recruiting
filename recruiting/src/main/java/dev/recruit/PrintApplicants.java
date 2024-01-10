@@ -2,6 +2,7 @@ package dev.recruit;
 
 import java.util.ArrayList;
 import java.util.Scanner;
+import java.util.logging.Logger;
 
 import dev.recruit.checker.Checker;
 import dev.recruit.model.ApplicantInfo;
@@ -12,9 +13,10 @@ public class PrintApplicants {
 	public PrintApplicants(ArrayList<ApplicantInfo> applicantInfos) {
 		this.applicantInfos = applicantInfos;
 	}
-	
+
 	public void printByInputCondition() {
 		Checker checker = new Checker(applicantInfos);
+		
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("번호를 입력하세요.\n1번 : 항목 별 조회\n2번 : 예비 합격자 조회");
@@ -37,8 +39,10 @@ public class PrintApplicants {
 				System.out.println("F : 여성");
 				String gender = sc.nextLine();
 				checker.genderChecker(gender);
+				
 				askCheckAgain();
 				break;
+			
 			case 2:
 				System.out.println("나이대를 입력하세요.");
 				System.out.println("1번 : 10대");
@@ -96,4 +100,7 @@ public class PrintApplicants {
 			System.out.println("프로그램이 종료되었습니다.");
 		}
 	}
+		
+	
 }
+

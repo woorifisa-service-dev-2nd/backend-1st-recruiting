@@ -1,0 +1,60 @@
+Jan 10, 2024 12:39:28 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 김철수, 성별 : M, 나이 : 50대, email : chulsu5710@gmail.com, 기술 스택 : [JAVA,C,PYTHON,JAVASCRIPT,C++,C#], 자격증 여부 : O, 희망 연봉 : 30000
+
+Jan 10, 2024 12:39:28 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 김남식, 성별 : M, 나이 : 10대, email : namnam00@gmail, 기술 스택 : [JAVA,JAVASCRIPT,C#], 자격증 여부 : X, 희망 연봉 : 3000
+
+Jan 10, 2024 12:39:28 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 황치섭, 성별 : M, 나이 : 20대, email : akldslk3gmail.com, 기술 스택 : [JAVA,C,PYTHON], 자격증 여부 : O, 희망 연봉 : 5000
+
+Jan 10, 2024 12:39:28 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 박지성, 성별 : M, 나이 : 30대, email : 1234577d@gmail.com, 기술 스택 : [JAVA,JAVASCRIPT], 자격증 여부 : X, 희망 연봉 : 6000
+
+Jan 10, 2024 12:39:28 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 이동욱, 성별 : M, 나이 : 40대, email : 11111135k@navercom, 기술 스택 : [PYTHON,C#], 자격증 여부 : O, 희망 연봉 : 8400
+
+Jan 10, 2024 12:39:28 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 강동원, 성별 : M, 나이 : 60대, email : emkdkkd12@gmail.com, 기술 스택 : [C,JAVASCRIPT,C++], 자격증 여부 : X, 희망 연봉 : 10000
+
+Jan 10, 2024 12:39:28 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 송지현, 성별 : M, 나이 : 40대, email : aq2ddhas@gmail.com, 기술 스택 : [JAVASCRIPT], 자격증 여부 : O, 희망 연봉 : 6000
+
+Jan 10, 2024 12:39:28 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 남궁민수, 성별 : M, 나이 : 60대, email : nffbvvrr3@gmail.com, 기술 스택 : [C++,C#], 자격증 여부 : O, 희망 연봉 : 20000
+
+Jan 10, 2024 12:39:28 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 허경영, 성별 : M, 나이 : 50대, email : 4rjfsaa@gmail.com, 기술 스택 : [C,C++,C#], 자격증 여부 : X, 희망 연봉 : 6100
+
+Jan 10, 2024 12:39:28 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 민석렬, 성별 : M, 나이 : 30대, email : nnkslli3@gmail.com, 기술 스택 : [JAVASCRIPT,C++], 자격증 여부 : O, 희망 연봉 : 8300
+
+Jan 10, 2024 12:39:31 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 황현정, 성별 : F, 나이 : 0대, email : asdb10@gmailcom, 기술 스택 : [PYTHON], 자격증 여부 : X, 희망 연봉 : 6500
+
+Jan 10, 2024 12:39:31 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 유지연, 성별 : F, 나이 : 20대, email : 23salkdjf@.com, 기술 스택 : [JAVA,C++,C#], 자격증 여부 : X, 희망 연봉 : 7500
+
+Jan 10, 2024 12:39:31 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 이수빈, 성별 : F, 나이 : 50대, email : 23hsdfns@gmail.com, 기술 스택 : [C,C++,C#], 자격증 여부 : O, 희망 연봉 : 3000
+
+Jan 10, 2024 12:39:31 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 민혜이, 성별 : F, 나이 : 30대, email : sdfmt97@gmail.com, 기술 스택 : [JAVA,C#], 자격증 여부 : O, 희망 연봉 : 4300
+
+Jan 10, 2024 12:39:31 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 박소연, 성별 : F, 나이 : 40대, email : fdfeeee23@gmail.com, 기술 스택 : [JAVA,PYTHON,JAVASCRIPT], 자격증 여부 : X, 희망 연봉 : 2000
+
+Jan 10, 2024 12:39:31 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 기수지, 성별 : F, 나이 : 50대, email : hlkjin000@gmailcom, 기술 스택 : [C,PYTHON,JAVASCRIPT], 자격증 여부 : O, 희망 연봉 : 9900
+
+Jan 10, 2024 12:39:31 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 도다희, 성별 : F, 나이 : 60대, email : asdi299490@gmail.com, 기술 스택 : [JAVA,C,PYTHON,C++], 자격증 여부 : O, 희망 연봉 : 2600
+
+Jan 10, 2024 12:39:31 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 진정민, 성별 : F, 나이 : 50대, email : 20983649@gmail, 기술 스택 : [C,PYTHON,JAVASCRIPT,C++,C#], 자격증 여부 : O, 희망 연봉 : 3000
+
+Jan 10, 2024 12:39:31 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 현지선, 성별 : F, 나이 : 20대, email : 2309dkljgd@gmail.com, 기술 스택 : [JAVA,C,PYTHON,JAVASCRIPT,C++,C#], 자격증 여부 : X, 희망 연봉 : 8500
+
+Jan 10, 2024 12:39:31 PM dev.recruit.logging.ResultLog saveLog
+INFO: 지원자 이미나, 성별 : F, 나이 : 60대, email : 389hkjdhd@gmaicom, 기술 스택 : [JAVA,PYTHON,JAVASCRIPT,C++,C#], 자격증 여부 : O, 희망 연봉 : 7200
+
