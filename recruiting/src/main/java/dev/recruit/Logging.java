@@ -14,7 +14,7 @@ public class Logging {
 	private static FileHandler fileHandler;
 	static {
 		try {
-			fileHandler = new FileHandler("log-file/logfile%g", 200, 1000, true);
+			fileHandler = new FileHandler("log-file/logfile%g", 200, 1100, true);
 
 
 			logger.addHandler(fileHandler);
